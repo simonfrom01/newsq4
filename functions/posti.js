@@ -7,7 +7,7 @@ let ref=event.headers.referer;
       statusCode: 301,
       headers: {
         'cache-control': 'public, max-age=0, must-revalidate',
-        location: 'https://moonnews24.com/' + pathName[4] 
+        location: 'https://newzq4.com/' + pathName[4] 
       }
     }
   } else {
